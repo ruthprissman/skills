@@ -16,11 +16,23 @@
 
 **ב־ChatGPT ובג׳מיני** מורידות את קובץ ה־ZIP מהטבלה, ומעלות אותו כמו שהוא:
 
-- **ChatGPT:** Plugins → Skills → Add → Upload from your computer. את הסקיל מפעילים במצב Work, עם @.
-- **ג׳מיני:** הגדרות ← סקילים ← יצירה ← העלאה, ואחר כך ״יצירה״. את הסקיל מפעילים עם @.
+- **ב־ChatGPT:** Plugins → Skills → Add → Upload from your computer. את הסקיל מפעילים במצב Work, ולא במצב Chat.
+- **בג׳מיני:** הגדרות ← סקילים ← יצירה ← העלאה, ואחר כך ״יצירה״.
 
-אותו ZIP עובד גם ב־Claude: Plugins → Add → Upload plugin.
+את אותו ZIP אפשר להעלות גם ל־Claude, דרך Plugins → Add → Upload plugin.
 
 ## מתחילים
 
-פותחות שיחה חדשה, בוחרות בסקיל וכותבות **בואי נתחיל**. ב־Claude כותבים `/disney-model`, וב־ChatGPT ובג׳מיני כותבים `@disney`.
+פותחות שיחה חדשה, כותבות את שם הסקיל ובוחרות בו, ואחריו כותבות **בואי נתחיל**.
+
+ב־Claude:
+
+```
+/disney-model
+```
+
+ב־ChatGPT ובג׳מיני:
+
+```
+@disney
+```
