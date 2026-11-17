@@ -4,16 +4,18 @@
     "name": "Ruth Prissman"
   },
   "metadata": {
-    "description": "Gift skills from Ruth Prissman's newsletter (Clearly)",
+    "description": "סקילים במתנה מהדיוור של רות פריסמן (Clearלי)",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "disney-model",
-      "description": "The three rooms of the Disney model: the dreamer, the planner and the critic. Hebrew coaching skill.",
+      "description": "שלושת החדרים של מודל דיסני: החולם, המתכנן והמבקר. עובר איתך חדר אחרי חדר, ובסוף יש תוכנית וצעד ראשון.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/disney-model"]
+      "skills": [
+        "./skills/disney-model"
+      ]
     }
   ]
 }
