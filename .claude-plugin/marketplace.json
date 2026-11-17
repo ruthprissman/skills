@@ -1,0 +1,19 @@
+{
+  "name": "ruth-skills",
+  "owner": {
+    "name": "Ruth Prissman"
+  },
+  "metadata": {
+    "description": "Gift skills from Ruth Prissman's newsletter (Clearly)",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "disney-model",
+      "description": "The three rooms of the Disney model: the dreamer, the planner and the critic. Hebrew coaching skill.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/disney-model"]
+    }
+  ]
+}
