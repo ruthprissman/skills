@@ -16,7 +16,7 @@
 
 **ב־ChatGPT ובג׳מיני** מורידות את קובץ ה־ZIP מהטבלה, ומעלות אותו כמו שהוא:
 
-- **ב־ChatGPT:** Plugins → Skills → Add → Upload from your computer. את הסקיל מפעילים במצב Work, ולא במצב Chat.
+- **ב־ChatGPT:**‏ Plugins → Skills → Add → Upload from your computer. את הסקיל מפעילים במצב Work, ולא במצב Chat.
 - **בג׳מיני:** הגדרות ← סקילים ← יצירה ← העלאה, ואחר כך ״יצירה״.
 
 את אותו ZIP אפשר להעלות גם ל־Claude, דרך Plugins → Add → Upload plugin.
