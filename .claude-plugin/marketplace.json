@@ -16,6 +16,15 @@
       "skills": [
         "./skills/disney-model"
       ]
+    },
+    {
+      "name": "offline-game",
+      "description": "בונה משחק מחשב שלם בקובץ HTML אחד, שנפתח בלחיצה כפולה ועובד בלי אינטרנט: רמי באבנים, דמקה, ארבע בשורה, זיכרון ועוד, או רעיון משלך.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/offline-game"
+      ]
     }
   ]
 }
