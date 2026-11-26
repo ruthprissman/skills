@@ -25,6 +25,15 @@
       "skills": [
         "./skills/offline-game"
       ]
+    },
+    {
+      "name": "ask-gpt",
+      "description": "נותן ל־Claude לשאול את GPT דרך Codex: דעה שנייה עם דיון של עד שלושה סבבים, וגם תמונות. עובד ב־Claude למחשב, בלשונית Code.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ask-gpt"
+      ]
     }
   ]
 }
